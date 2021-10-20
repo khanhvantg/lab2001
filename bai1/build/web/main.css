@@ -1,0 +1,60 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+}
+h1, p{
+    text-align: center;
+    color: red;
+}
+.main{
+    margin: auto;
+    width: 420px;
+    margin-top: 10%;
+}
+.heading{
+    background-color: burlywood;
+}
+.heading_bonus{
+     background-color: yellow;
+}
+.box{
+     background-color: black;
+}
+.heading,
+.box{
+    color: white;
+    padding: 16px 8px;
+}
+label{
+    float: left;
+    width: 6em;
+    margin-bottom: 0.5em;
+}
+input[type="text"], input[type="email"]{
+    width: 15em;
+    margin-left: 0.5em;
+    margin-bottom: 0.5em;
+}
+.form_line{
+    background-color: white;
+}
+.line{
+    color: black;
+    font-size: 15px;
+    padding: 11px 16px;
+    border-bottom: 1px solid #ddd;
+    list-style-type: none;
+}
+br{
+    clear: both;
+}
+#submit{
+    background-color: greenyellow;
+    margin: 0.5em;
+}
+
+
+
+
+
+
